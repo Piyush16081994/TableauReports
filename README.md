@@ -1,4 +1,5 @@
-#Tableau Bike Sales Report and Dashboard
+Tableau Bike Sales Report and Dashboard
+
 Overview
 This repository contains the Tableau report and dashboard for analyzing bike sales data. The dashboard provides insights into various aspects of bike sales, including sales trends,total revenue, product performance, and Total profit of bike sale over year.
 
